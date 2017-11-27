@@ -57,3 +57,9 @@ ZSL App challenge for Climate Change sessions.
 ## VIII. Sound Consideration
 
 ### The game play experience is not dependant on sound and as such the game does not require speakers of any kind.
+
+# Schedule
+
+![Gantt](https://github.com/Oliver-Slape/ZSL/blob/master/Gantt.fw.png)
+
+
