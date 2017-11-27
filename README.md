@@ -1,5 +1,5 @@
 # ZSL
-ZSL App challenge from Climate Change sessions.
+ZSL App challenge for Climate Change sessions.
 
 # Logo 
 
