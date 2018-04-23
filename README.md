@@ -106,3 +106,6 @@ ZSL App challenge for Climate Change sessions.
 ### Database will be used to collect all the pledges
 ### Pledges will be calculated by each team 
 
+
+# Critical Reasoning 
+### Critical Reasoning has been used in the manner of translating the requirements to user stories and tasks that are tangable and can be completed and defined. 
