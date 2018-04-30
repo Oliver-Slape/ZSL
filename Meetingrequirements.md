@@ -36,7 +36,7 @@
 
 ##### I will try to skip eating beef (and better yet, meat!) for one day a week (you could follow @meatfreemonday) (REASON: Less beef/meat will be farmed)
 ##### If I have access to a special food waste bin, I will throw beef (and any other food waste) in it (REASON: Throwing food waste into landfill releases methane into the atmosphere)
-##### When ordering food I will pick an alternative meat (or better yet, a vegetarian option) instead of beef (REASON: Less beef/meat will be farmed)
+##### When ordering food, I will pick an alternative meat (or better yet, a vegetarian option) instead of beef (REASON: Less beef/meat will be farmed)
  
 #### Electronics on standby
 
