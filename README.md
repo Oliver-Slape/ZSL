@@ -72,7 +72,7 @@ ZSL App challenge for Climate Change sessions.
 ### If unable to finish one of the game's, mechanics will be used from another game to the unfinished one
 
 
-## Product/Sprint Backlog
+## Product/Sprint Backlog (as User Stories)
 ### As a game player, I want to see the greenhouse gas timeline for mobile phones, beef, plastic bottles and leaving devices on standby so that I can learn about each stage
 ### Condense each greenhouse gas timeline into short sentences (max. 3 lines of text, font size 14)
 ### Build timeline in Unity using assets from ‘Wooden GUI’ pack
