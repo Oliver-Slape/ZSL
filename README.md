@@ -62,7 +62,7 @@ ZSL App challenge for Climate Change sessions.
 
 ![Gantt](https://github.com/Oliver-Slape/ZSL/blob/master/Gantt.fw.png)
 
-## The schedule is broken down into 4 sections. The analysis phase is all the preparation we need to start he project this is things like requirements. Then we have the design phase. This is where we get everything ready for the main tasks such as programming and animating. This is then taken back to the client to agree that the requirements will be met. The development phase is where the main bulk of the work happens. The actual Programming and animating. Along with creating the main pitch to the client. The testing phase is the final touches on the project. The client has agreed with the direction and interpretation of the requirements and is waiting for the finished product.
+### The schedule is broken down into 4 sections. The analysis phase is all the preparation we need to start the project this is things like requirements. Then we have the design phase. This is where we get everything ready for the main tasks such as programming and animating. This is then taken back to the client to agree that the requirements will be met. The development phase is where the main bulk of the work happens. The actual Programming and animating. Along with creating the main pitch to the client. The testing phase is the final touches on the project. The client has agreed with the direction and interpretation of the requirements and is waiting for the finished product.
 
 # Management 
 ## Contingency Plan
