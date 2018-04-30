@@ -1,6 +1,6 @@
-#Presentation
+# Presentation
 
-This is the presentation that we used for our project pitch. 
+### This is the presentation that we used for our project pitch. 
 
 ![Slide1](https://github.com/Oliver-Slape/ZSL/blob/master/Slide1.png)
 ![Slide2](https://github.com/Oliver-Slape/ZSL/blob/master/Slide2.PNG)
