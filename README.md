@@ -66,7 +66,7 @@ ZSL App challenge for Climate Change sessions.
 
 # Management 
 ## Contingency Plan
-### Powerpoint and GDD backed up on both USB and on Google drive.
+### PowerPoint and GDD backed up on both USB and on Google drive.
 ### Assets backed up on both USB and Google drive
 ### Back up plan for the Throwing plastic bottle game
 ### If unable to finish one of the game's, mechanics will be used from another game to the unfinished one
@@ -100,7 +100,7 @@ ZSL App challenge for Climate Change sessions.
 ### Facts will appear on the timeline
 ### Each new fact appears when points are awarded
 
-### As a game player, I want to play mini games, collect points and see my position on a leaderboard against other users so I can try and reach first place.
+### As a game player, I want to play mini games, collect points and see my position on a leader board against other users so I can try and reach first place.
 
 ### As a teacher, I want to see all the pledges made in a ranked order so that I can discuss these with my class, and gain a commitment from each student.
 ### Database will be used to collect all the pledges
@@ -109,4 +109,4 @@ ZSL App challenge for Climate Change sessions.
 ![Flow](https://github.com/Oliver-Slape/ZSL/blob/master/ZSLFlowchart.png)
 
 # Critical Reasoning 
-### Critical Reasoning has been used in the manner of translating the requirements to user stories and tasks that are tangable and can be completed and defined. 
+### Critical Reasoning has been used in the manner of translating the requirements to user stories and tasks that are tangible and can be completed and defined.
